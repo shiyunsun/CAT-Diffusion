@@ -1,2 +1,2 @@
 # CAT-Diffusion
-DDIM for cat images
+<img src="demo.png" height=50% width=50%> 
